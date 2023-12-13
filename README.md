@@ -5,6 +5,9 @@
 - 💬 Contate-me no email: rodolfo.diego@yahoo.com.br
 - 😄 Pronouns: ele/dele
 
+> Sou uma pessoa que busca conhecimento e sempre disposto a aprender coisas novas. Sou muito comunicativo se sempre tento ajudar a todos.
+
+
   <a href="https://github.com/diegoinacio87/github-readme-stats">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=diegoinacio87&show_icons=true&theme=gruvbox" />
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoinacio87&layout=compact&show_icons=true&theme=gruvbox" /></a>
@@ -17,4 +20,4 @@
   <a href="https://diegoinacio87.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/diegoinacio87/diegoinacio87/blob/output/github-contribution-grid-snake.svg)
+
