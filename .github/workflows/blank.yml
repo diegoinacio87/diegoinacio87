@@ -1,11 +1,11 @@
-name: Snake game
+name: generate snk
 
 on:
   schedule:
     - cron: "0 0 */1 * *" # every day
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
@@ -15,9 +15,9 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@main
+        uses: Platane/snk@master
         with:
-          github_user_name: diegoinacio87
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/snk.svg
 
       # push the content of <build_dir> to a branch
