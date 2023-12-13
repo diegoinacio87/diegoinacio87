@@ -17,4 +17,4 @@
   <a href="https://diegoinacio87.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
-![image load fail. please open proxy retry](https://github.com/diegoinacio87/diegoinacio87/commit-snake/blob/snk/snk.svg)
+![snake gif](https://github.com/diegoinacio87/diegoinacio8/blob/output/github-contribution-grid-snake.svg)
